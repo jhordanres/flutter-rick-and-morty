@@ -14,7 +14,7 @@ class AppTheme {
 
     //Tema AppBar 
     appBarTheme: const AppBarTheme(
-      color: primary,
+      color: Colors.black,
       elevation: 0,
       centerTitle: true
     ),
