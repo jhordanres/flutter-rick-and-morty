@@ -13,6 +13,9 @@ Esta app cuenta con diseño basico de dos pantallas separadas en Personajes y De
 - provider: Este paquete se utilizo para gestionar estados en la app haciendo el consumo de la data un poco mas comoda, direccionando todohacia su metedo ChangeNotifier
 
 ## Instlación de paquetes 
+- Si quieres descargar todos los paquetes utilizados en la App en la terminal del proyecto escribe el siguiente comando: *flutter packages get* y presiona Enter
+
+### Nota en caso tal que quieras intalar los paquetes de forma manual, puedes seguir estos paso:
 - [http](https://pub.dev/packages/http) Para la intalación de este paquete dirigete al link adjunto y ve a la sección installing copias la siguiente dependencia 
   http: ^0.13.4 y luego vas a tu pryoyecto abres el archivo pubspec.yaml y lo pegas debajo de la dependencia cupertino_icons
 - [provider](https://pub.dev/packages/provider/install) Para la instalación de este paquete dirigete al link adjunto y copia la dependencia provider: ^6.0.2 despues de copiada la pegas debajo de la dependencia http pegada anteriormente.
