@@ -13,7 +13,7 @@ Esta app cuenta con diseño basico de dos pantallas separadas en Personajes y De
 - provider: Este paquete se utilizo para gestionar estados en la app haciendo el consumo de la data un poco mas comoda, direccionando todohacia su metedo ChangeNotifier
 
 ## Instlación de paquetes 
-- Si quieres descargar todos los paquetes utilizados en la App en la terminal del proyecto escribe el siguiente comando: *flutter packages get* y presiona Enter
+- Si quieres descargar todos los paquetes utilizados en la App dirigete a la terminal del proyecto escribe el siguiente comando: *flutter packages get* y presiona Enter
 
 ### Nota en caso tal que quieras instalar los paquetes de forma manual, puedes seguir estos paso:
 - [http](https://pub.dev/packages/http) Para la intalación de este paquete dirigete al link adjunto y ve a la sección installing copias la siguiente dependencia 
